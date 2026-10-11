@@ -15,12 +15,13 @@ A reusable **Agent Skills** package for Similarweb-style digital market research
 
 ## Download
 
-- **Latest source ZIP:** use GitHub's green **Code → Download ZIP** menu on this repository.
-- **Tagged package:** download `digital-market-intelligence-skill-v1.0.0.zip` from the repository's release assets when available.
+- **[Download the v1.0.0 package ZIP](https://raw.githubusercontent.com/itsdjjerry1/digital-market-intelligence-skill/main/digital-market-intelligence-skill-v1.0.0.zip)** — direct file download.
+- **[Download the complete repository as ZIP](https://github.com/itsdjjerry1/digital-market-intelligence-skill/archive/refs/heads/main.zip)** — includes every source file.
+- **[GitHub Releases](https://github.com/itsdjjerry1/digital-market-intelligence-skill/releases)** — formal tagged releases will be listed here.
 
 ## Install
 
-1. Download and extract this repository.
+1. Download and extract the ZIP.
 2. Copy the `digital-market-intelligence` folder into an Agent Skills-compatible client that supports local skills.
 3. Keep the folder name `digital-market-intelligence`; it matches the skill's frontmatter `name`.
 4. Configure any data providers or tools you want the agent to use. Examples include first-party analytics exports, a licensed web-intelligence API, SEO keyword data, app-intelligence sources, or marketplace data.
